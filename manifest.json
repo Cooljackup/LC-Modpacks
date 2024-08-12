@@ -1,0 +1,9 @@
+{
+    "name": "Zeths_Dev_Modpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Cooljackup/LC-Modpacks/tree/dev",
+    "description": "Dev modpack for testing. Compiled by Zethical.",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.3.8"
+    ]
+}

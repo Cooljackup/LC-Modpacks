@@ -1,2 +1,2 @@
-# LC-Modpacks
-A collection of multiple modpacks I've compiled for Lethal Company.
+# Zeth's Dev Modpack
+Dev modpack for testing.

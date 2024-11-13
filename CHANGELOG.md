@@ -1,5 +1,9 @@
 # Changelog
 
+**<details><summary>Version 1.2.1</summary>**
+* *Added EnemySkinRegistry to the dependenices due to installing an older version.*
+</details>
+
 **<details><summary>Version 1.2.0</summary>**
 * *Updated mods to latest versions as of November 13th, 2024.*
 * *Properly added all the required dependenices for map moons.*

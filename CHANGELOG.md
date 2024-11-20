@@ -1,5 +1,12 @@
 # Changelog
 
+**<details><summary>Version 1.2.5</summary>**
+* *Removed RosiesMoons due to them bundling their moons differently. In place, it is now Gordion Saga.*
+* *Removed Mantif Moon & Interior.*
+* *Updated CullFactory.*
+* *Removed links from big modpacks in readme.md cause who really is gonna look at that.*
+</details>
+
 **<details><summary>Version 1.2.1</summary>**
 * *Added EnemySkinRegistry to the dependenices due to installing an older version.*
 </details>
